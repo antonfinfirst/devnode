@@ -1,0 +1,5 @@
+
+> docker-debian-hello-world@0.0.2 start /root/nodejs/node_docker
+> node ./index.js
+
+Running on http://localhost:8080
