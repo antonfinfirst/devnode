@@ -1,4 +1,4 @@
-## Docker node.js example app
+## Docker node.js example app*
 
 To build a container:
 ```
